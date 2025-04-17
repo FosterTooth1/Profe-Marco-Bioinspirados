@@ -1,0 +1,25 @@
+Ejercicio 1:
+
+Individuo 1:
+x1 = −1.6, x2 = 9
+
+Individuo 2:
+x1 = 0, x2 = 7
+
+
+Ejercicio 2:
+
+Padre 1 = 3
+Padre 2 = 4
+Padre 3 = 1
+Padre 4 = 3
+
+Ejercicio 3:
+H21 = −0.588
+H22 = 4.888
+
+Ejercicio 4: 
+x2 = −0.1372
+
+Tarea 1:
+-5.1621
